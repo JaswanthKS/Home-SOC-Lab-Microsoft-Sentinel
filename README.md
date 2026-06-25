@@ -43,16 +43,16 @@ Event
 ## 📸 Screenshots
 
 ### Incidents Dashboard
-![Incidents](screenshots/incidents-dashboard.png)
+![Incidents](Screenshots/incidents-dashboard.png)
 
 ### KQL Brute Force Detection
-![KQL](screenshots/kql-brute-force-detection.png)
+![KQL](Screenshots/kql-brute-force-detection.png)
 
 ### Heartbeat - VM Connected to Sentinel
-![Heartbeat](screenshots/heartbeat.png)
+![Heartbeat](Screenshots/heartbeat.png)
 
 ### Azure Arc - VM Connected to Azure
-![Azure Arc](screenshots/azure-arc.png)
+![Azure Arc](Screenshots/azure-arc.png)
 
 ## 🎓 Certifications
 - SC-900: Microsoft Security Fundamentals (In Progress)
