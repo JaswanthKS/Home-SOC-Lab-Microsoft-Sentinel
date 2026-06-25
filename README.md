@@ -10,7 +10,7 @@
 A fully functional Security Operations Center (SOC) lab built to demonstrate hands-on cybersecurity skills for SOC Analyst roles. This project covers real-world attack simulation, detection engineering, and incident response using Microsoft Sentinel.
 
 ## 🏗️ Architecture
-![Architecture](Screenshots/architecture-diagram.png)
+![Architecture](Screenshots/soc_lab_architecture.png)
 
 - **Attacker:** Kali Linux VM (192.168.1.189)
 - **Target:** Windows 11 Enterprise VM (192.168.1.100)
