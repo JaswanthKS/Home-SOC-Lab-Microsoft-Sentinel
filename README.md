@@ -42,17 +42,17 @@ Event
 
 ## 📸 Screenshots
 
-### Incidents Dashboard
-![Incidents](Screenshots/incidents-dashboard.png)
+### 1. VM Connected to Azure (Azure Arc)
+![Azure Arc](Screenshots/azure-arc.png)
 
-### KQL Brute Force Detection
-![KQL](Screenshots/kql-brute-force-detection.png)
-
-### Heartbeat - VM Connected to Sentinel
+### 2. VM Sending Heartbeat to Sentinel
 ![Heartbeat](Screenshots/heartbeat.png)
 
-### Azure Arc - VM Connected to Azure
-![Azure Arc](Screenshots/azure-arc.png)
+### 3. Brute Force Attack Detected (KQL)
+![KQL](Screenshots/kql-brute-force-detection.png)
+
+### 4. High Severity Incidents Created
+![Incidents](Screenshots/incidents-dashboard.png)
 
 ## 🎓 Certifications
 - SC-900: Microsoft Security Fundamentals (In Progress)
