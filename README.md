@@ -50,7 +50,7 @@ Event
 
 ## 📸 Screenshots
 ### 1. Architecture Diagram
-![Architecture](Screenshots/architecture-diagram.png)
+![Architecture](Screenshots/soc_lab_architecture.png)
 
 ### 2. VM Connected to Azure (Azure Arc)
 ![Azure Arc](Screenshots/azure-arc.png)
